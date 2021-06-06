@@ -1,3 +1,10 @@
+.marquee {
+  font-size: xx-large;
+  direction: 'right';
+  width: 100%;
+  color: coral;
+}
+
 .grid {
   display: flex;
   width: 606px;
@@ -9,4 +16,12 @@
   height: 200px;
   width: 200px;
   border: 1px solid black;
+}
+
+.mole {
+  background-color: blue;
+}
+
+h1 {
+  color: steelblue;
 }
