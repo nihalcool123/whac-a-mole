@@ -1,3 +1,12 @@
-body {
-  background: orange;
+.grid {
+  display: flex;
+  width: 606px;
+  height: 606x;
+  flex-wrap: wrap;
+}
+
+.square {
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
 }
